@@ -7,7 +7,7 @@
 -sion ContrInstalled (`git --version` to confirm)
 -vity: VersVisual Studio Code
 -403 – Pre-class Activity: VersionGitHub Codespaces, github.dev (pressActivon any repo), Gitpod, Replit
-
+- **Branch demo:** This line was added on thene was added on branch and merged via a pull request.
 ## 2. Key Terms
 -ersion Control & Dev EA system that records changes to files over time so you can track history, revert to earlier versions, and collaborate without overwriting each other's work. Git is a distributed version control system.
 - and verified – github.cA storage location for a project's files and their full change history. It can be local (on your machine) or remote (hosted on GitHub).
